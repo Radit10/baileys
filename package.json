@@ -1,6 +1,6 @@
 {
   "name": "@fadzzzslebew/baileys",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Baileys is a lightweight JavaScript library for interacting with the WhatsApp Web API using WebSocket.",
   "keywords": [
     "facebook",
@@ -14,7 +14,7 @@
   ],
   "homepage": "https://github.com/fadzzzslebew/baileys/",
   "repository": {
-    "url": "git@github.com:fadzzzslebew/baileys.git"
+    "url": "git+ssh://git@github.com/fadzzzslebew/baileys.git"
   },
   "license": "MIT",
   "author": "Fadzzz",
@@ -79,5 +79,8 @@
   },
   "directories": {
     "lib": "lib"
+  },
+  "bugs": {
+    "url": "https://github.com/fadzzzslebew/baileys/issues"
   }
 }
