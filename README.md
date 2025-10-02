@@ -51,9 +51,9 @@
 - 🤖 Convert Sender LID to JID
 - 👥 Convert Group ID LID to JID
 - 🩸 Fixed All Bug LID (participant - mentionedJid - sender - admins group)
+- 💨 Fixed Slow Response
 - ⚠️ Buttons ContextInfo Are Fixed By WhatsApp
 - 📣 Newsletter Supported
-- ☕ Sessions & Response Timeout (30/09/25)
 
 <br>
 
