@@ -1,6 +1,6 @@
 {
   "name": "@fadzzzslebew/baileys",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "Baileys is a lightweight JavaScript library for interacting with the WhatsApp Web API using WebSocket.",
   "keywords": [
     "facebook",
@@ -31,7 +31,7 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "@cacheable/node-cache": "1.5.3",
     "@fadzzzslebew/eslint-config": "^1.0.0",
-    "@fadzzzslebew/libsignal": "npm:@fadzzzslebew/libsignal-node",
+    "@fadzzzslebew/libsignal-node": "^1.0.0",
     "@hapi/boom": "^9.1.3",
     "async-mutex": "^0.5.0",
     "axios": "^1.12.1",
