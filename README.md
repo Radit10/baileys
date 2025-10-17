@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://fadzzzproject.my.id/shigure_ui.jpg" alt="WhatsApp Baileys" width="450"/>  
+  <img src="https://fadzzz.vercel.app/shigure_ui.jpg" alt="WhatsApp Baileys" width="450"/>  
 
   <h1>WhatsApp Baileys</h1>
   <p><strong>Lightweight, Full-Featured WhatsApp Web for Node.js</strong></p>
