@@ -64,8 +64,8 @@ The original repository was initially removed by its creator and subsequently ta
 
 ## ⚡ Contact Admin
 - [Telegram](https://t.me/cs_fadzzzdigital)
-- [Channel](https://whatsapp.com/channel/0029VbBiCstKLaHkqyvdXc1o)
-- [Rest API](https://fadzzz.zone.id)
+- [Channel](https://whatsapp.com/channel/0029VaxYWls5q08hTLgqKp3K)
+- [Rest API](https://fadzzz.qzz.io)
 - [Website AI Art](https://sameart.my.id)
 
 <br>
